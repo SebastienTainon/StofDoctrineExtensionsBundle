@@ -19,6 +19,7 @@ configuration.
                 tree:           MyBundle\TreeListener
                 timestampable:  MyBundle\TimestampableListener
                 blameable:      ~
+                ip_traceable:   ~
                 sluggable:      ~
                 translatable:   ~
                 loggable:       ~
